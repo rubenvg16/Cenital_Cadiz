@@ -1,0 +1,3473 @@
+fileFormatVersion: 2
+guid: d94977a66f3d0f842b6545f72b11b232
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -545512473762932456
+    second: manolo_cenital_andar_0
+  - first:
+      213: 4310926118085400043
+    second: manolo_cenital_andar_1
+  - first:
+      213: -858410144388289266
+    second: manolo_cenital_andar_2
+  - first:
+      213: -7669540367225965174
+    second: manolo_cenital_andar_3
+  - first:
+      213: 1291036076194865493
+    second: manolo_cenital_andar_4
+  - first:
+      213: -3483286858067576708
+    second: manolo_cenital_andar_5
+  - first:
+      213: -6163102079071666516
+    second: manolo_cenital_andar_6
+  - first:
+      213: -5231136925334295760
+    second: manolo_cenital_andar_7
+  - first:
+      213: -2372429436687903027
+    second: manolo_cenital_andar_8
+  - first:
+      213: -2156039653437264791
+    second: manolo_cenital_andar_9
+  - first:
+      213: -4372764851743217678
+    second: manolo_cenital_andar_10
+  - first:
+      213: 278997734882623299
+    second: manolo_cenital_andar_11
+  - first:
+      213: -4766310458701012600
+    second: manolo_cenital_andar_12
+  - first:
+      213: 9177266347832405427
+    second: manolo_cenital_andar_13
+  - first:
+      213: 3018267946389940633
+    second: manolo_cenital_andar_14
+  - first:
+      213: -7908269374226821916
+    second: manolo_cenital_andar_15
+  - first:
+      213: 8161508067775808726
+    second: manolo_cenital_andar_16
+  - first:
+      213: 3730092553160664823
+    second: manolo_cenital_andar_17
+  - first:
+      213: 2561623259844857097
+    second: manolo_cenital_andar_18
+  - first:
+      213: -7885960313186713053
+    second: manolo_cenital_andar_19
+  - first:
+      213: 4367526722894473
+    second: manolo_cenital_andar_20
+  - first:
+      213: -1460379717343305763
+    second: manolo_cenital_andar_21
+  - first:
+      213: -3280544886247563621
+    second: manolo_cenital_andar_22
+  - first:
+      213: 5987214734845795739
+    second: manolo_cenital_andar_23
+  - first:
+      213: 5168825129918902469
+    second: manolo_cenital_andar_24
+  - first:
+      213: 5873053989675729263
+    second: manolo_cenital_andar_25
+  - first:
+      213: -1546337033336738683
+    second: manolo_cenital_andar_26
+  - first:
+      213: -2440812467669837139
+    second: manolo_cenital_andar_27
+  - first:
+      213: -3642430003140458076
+    second: manolo_cenital_andar_28
+  - first:
+      213: 3700997550397612117
+    second: manolo_cenital_andar_29
+  - first:
+      213: -4129285552182232726
+    second: manolo_cenital_andar_30
+  - first:
+      213: -3181442058496838536
+    second: manolo_cenital_andar_31
+  - first:
+      213: -8327635232915846340
+    second: manolo_cenital_andar_32
+  - first:
+      213: 750206445499828433
+    second: manolo_cenital_andar_33
+  - first:
+      213: 6358673613833690365
+    second: manolo_cenital_andar_34
+  - first:
+      213: -3409213956571392940
+    second: manolo_cenital_andar_35
+  - first:
+      213: 3531359832957192972
+    second: manolo_cenital_andar_36
+  - first:
+      213: 2485719767397716668
+    second: manolo_cenital_andar_37
+  - first:
+      213: 8217558347220007470
+    second: manolo_cenital_andar_38
+  - first:
+      213: 1889730100869646908
+    second: manolo_cenital_andar_39
+  - first:
+      213: -7626968686191391134
+    second: manolo_cenital_andar_40
+  - first:
+      213: -3082486860138150852
+    second: manolo_cenital_andar_41
+  - first:
+      213: -6233171479079996812
+    second: manolo_cenital_andar_42
+  - first:
+      213: 3060741672216265797
+    second: manolo_cenital_andar_43
+  - first:
+      213: 2740647796805925930
+    second: manolo_cenital_andar_44
+  - first:
+      213: -3622407076879044738
+    second: manolo_cenital_andar_45
+  - first:
+      213: -337168680601227117
+    second: manolo_cenital_andar_46
+  - first:
+      213: -8239637332213667911
+    second: manolo_cenital_andar_47
+  - first:
+      213: 5514801616830191268
+    second: manolo_cenital_andar_48
+  - first:
+      213: -5994962171165202706
+    second: manolo_cenital_andar_49
+  - first:
+      213: 3796262597287975534
+    second: manolo_cenital_andar_50
+  - first:
+      213: 6385545615146303049
+    second: manolo_cenital_andar_51
+  - first:
+      213: 5655695369993506036
+    second: manolo_cenital_andar_52
+  - first:
+      213: -8628343048648395564
+    second: manolo_cenital_andar_53
+  - first:
+      213: 6380168929248904308
+    second: manolo_cenital_andar_54
+  - first:
+      213: -574016067977893809
+    second: manolo_cenital_andar_55
+  - first:
+      213: -3700041996724171814
+    second: manolo_cenital_andar_56
+  - first:
+      213: 213908063233268000
+    second: manolo_cenital_andar_57
+  - first:
+      213: 4235715856171320530
+    second: manolo_cenital_andar_58
+  - first:
+      213: -7650539964535145110
+    second: manolo_cenital_andar_59
+  - first:
+      213: -8808839331590036210
+    second: manolo_cenital_andar_60
+  - first:
+      213: -6565266220512968842
+    second: manolo_cenital_andar_61
+  - first:
+      213: -3434921494882905484
+    second: manolo_cenital_andar_62
+  - first:
+      213: 1231710351384016401
+    second: manolo_cenital_andar_63
+  - first:
+      213: 1321990800675120023
+    second: manolo_cenital_andar_64
+  - first:
+      213: -2805706258276927171
+    second: manolo_cenital_andar_65
+  - first:
+      213: -5197919220295775726
+    second: manolo_cenital_andar_66
+  - first:
+      213: 6462127195023425348
+    second: manolo_cenital_andar_67
+  - first:
+      213: 5137087732020794203
+    second: manolo_cenital_andar_68
+  - first:
+      213: -1042172392671120413
+    second: manolo_cenital_andar_69
+  - first:
+      213: -5394809763714919589
+    second: manolo_cenital_andar_70
+  - first:
+      213: 8814954687621336924
+    second: manolo_cenital_andar_71
+  - first:
+      213: -1392111801028900014
+    second: manolo_cenital_andar_72
+  - first:
+      213: 6023054700027638162
+    second: manolo_cenital_andar_73
+  - first:
+      213: 8123786041792161982
+    second: manolo_cenital_andar_74
+  - first:
+      213: 6898707506826210445
+    second: manolo_cenital_andar_75
+  - first:
+      213: 6508024691715463884
+    second: manolo_cenital_andar_76
+  - first:
+      213: 2925940421146196013
+    second: manolo_cenital_andar_77
+  - first:
+      213: 1664933273779122153
+    second: manolo_cenital_andar_78
+  - first:
+      213: 5107188169609200329
+    second: manolo_cenital_andar_79
+  - first:
+      213: -2624048773270507107
+    second: manolo_cenital_andar_80
+  - first:
+      213: -2043982642770634586
+    second: manolo_cenital_andar_81
+  - first:
+      213: 5230665102597500989
+    second: manolo_cenital_andar_82
+  - first:
+      213: -3687780812437990210
+    second: manolo_cenital_andar_83
+  - first:
+      213: -8594392236943887706
+    second: manolo_cenital_andar_84
+  - first:
+      213: -2065534171985511823
+    second: manolo_cenital_andar_85
+  - first:
+      213: -3905948935824026796
+    second: manolo_cenital_andar_86
+  - first:
+      213: -5621117947952961330
+    second: manolo_cenital_andar_87
+  - first:
+      213: 1163228183168387750
+    second: manolo_cenital_andar_88
+  - first:
+      213: -4641068082904281846
+    second: manolo_cenital_andar_89
+  - first:
+      213: -1009632719023241951
+    second: manolo_cenital_andar_90
+  - first:
+      213: -4990790115522562593
+    second: manolo_cenital_andar_91
+  - first:
+      213: 1649197963831279818
+    second: manolo_cenital_andar_92
+  - first:
+      213: -7431502668547467249
+    second: manolo_cenital_andar_93
+  - first:
+      213: 4636510218591594141
+    second: manolo_cenital_andar_94
+  - first:
+      213: -7845532627019234798
+    second: manolo_cenital_andar_95
+  - first:
+      213: -3260329213675636780
+    second: manolo_cenital_andar_96
+  - first:
+      213: 1993944734780092649
+    second: manolo_cenital_andar_97
+  - first:
+      213: -7286629820970489843
+    second: manolo_cenital_andar_98
+  - first:
+      213: 646353130254779232
+    second: manolo_cenital_andar_99
+  - first:
+      213: 8281066644968802920
+    second: manolo_cenital_andar_100
+  - first:
+      213: 2097252509226095049
+    second: manolo_cenital_andar_101
+  - first:
+      213: -4335375024840789711
+    second: manolo_cenital_andar_102
+  - first:
+      213: -3474570203953734891
+    second: manolo_cenital_andar_103
+  - first:
+      213: 3493151895901733606
+    second: manolo_cenital_andar_104
+  - first:
+      213: -8731109575809381323
+    second: manolo_cenital_andar_105
+  - first:
+      213: 4722298989901058000
+    second: manolo_cenital_andar_106
+  - first:
+      213: 4699580184326335602
+    second: manolo_cenital_andar_107
+  - first:
+      213: 1642748257606332122
+    second: manolo_cenital_andar_108
+  - first:
+      213: -679671941858481888
+    second: manolo_cenital_andar_109
+  - first:
+      213: 6131333067620647083
+    second: manolo_cenital_andar_110
+  - first:
+      213: -8315806842466560514
+    second: manolo_cenital_andar_111
+  - first:
+      213: 2569660167881977698
+    second: manolo_cenital_andar_112
+  - first:
+      213: 4983315648069876476
+    second: manolo_cenital_andar_113
+  - first:
+      213: 4156342712016573
+    second: manolo_cenital_andar_114
+  - first:
+      213: -2432970773624605006
+    second: manolo_cenital_andar_115
+  - first:
+      213: -5840205808001976938
+    second: manolo_cenital_andar_116
+  - first:
+      213: -6521242212352821015
+    second: manolo_cenital_andar_117
+  - first:
+      213: -1997735046557178404
+    second: manolo_cenital_andar_118
+  - first:
+      213: -2405682950761386726
+    second: manolo_cenital_andar_119
+  - first:
+      213: -665617764266784867
+    second: manolo_cenital_andar_120
+  - first:
+      213: 4833441844614302123
+    second: manolo_cenital_andar_121
+  - first:
+      213: 8581044151716132744
+    second: manolo_cenital_andar_122
+  - first:
+      213: -2118896911405022438
+    second: manolo_cenital_andar_123
+  - first:
+      213: -8050250739053631109
+    second: manolo_cenital_andar_124
+  - first:
+      213: -6515855113749115097
+    second: manolo_cenital_andar_125
+  - first:
+      213: -2584652698691728549
+    second: manolo_cenital_andar_126
+  - first:
+      213: 6387207745344292595
+    second: manolo_cenital_andar_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: manolo_cenital_andar_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2691
+        width: 166
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819d0dc9b43fd68f0800000000000000
+      internalID: -545512473762932456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2691
+        width: 170
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be51f61d67c73db30800000000000000
+      internalID: 4310926118085400043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_2
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 2691
+        width: 172
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0de42095805614f0800000000000000
+      internalID: -858410144388289266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2691
+        width: 167
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a853af4cba1509590800000000000000
+      internalID: -7669540367225965174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_4
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 2691
+        width: 170
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5512fc9987eaae110800000000000000
+      internalID: 1291036076194865493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_5
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 2691
+        width: 170
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78781ece01e8afc0800000000000000
+      internalID: -3483286858067576708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_6
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 2691
+        width: 170
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae36760053487aa0800000000000000
+      internalID: -6163102079071666516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_7
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 2691
+        width: 162
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b2502aea44767b0800000000000000
+      internalID: -5231136925334295760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_8
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 2691
+        width: 163
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6998b3fff631fd0800000000000000
+      internalID: -2372429436687903027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_9
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 2691
+        width: 168
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c273fbb553412e0800000000000000
+      internalID: -2156039653437264791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_10
+      rect:
+        serializedVersion: 2
+        x: 3946
+        y: 2691
+        width: 172
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f728850981d053c0800000000000000
+      internalID: -4372764851743217678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_11
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 2691
+        width: 168
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f31d036f23fd300800000000000000
+      internalID: 278997734882623299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_12
+      rect:
+        serializedVersion: 2
+        x: 4719
+        y: 2691
+        width: 168
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881a5eb04e9aaddb0800000000000000
+      internalID: -4766310458701012600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_13
+      rect:
+        serializedVersion: 2
+        x: 5099
+        y: 2691
+        width: 172
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd62bfbe133c5f70800000000000000
+      internalID: 9177266347832405427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_14
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 2691
+        width: 170
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999258da4ba03e920800000000000000
+      internalID: 3018267946389940633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_15
+      rect:
+        serializedVersion: 2
+        x: 5870
+        y: 2691
+        width: 160
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec0c1967ee204290800000000000000
+      internalID: -7908269374226821916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2307
+        width: 145
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4034b9850834170800000000000000
+      internalID: 8161508067775808726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_17
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2307
+        width: 150
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6a87a0a63f3c330800000000000000
+      internalID: 3730092553160664823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_18
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2307
+        width: 164
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d4e6368c6bc8320800000000000000
+      internalID: 2561623259844857097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_19
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2307
+        width: 169
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3228da370e07f8290800000000000000
+      internalID: -7885960313186713053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_20
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2307
+        width: 180
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a7dde0e348f0000800000000000000
+      internalID: 4367526722894473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_21
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 2307
+        width: 182
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf119e6260bbbbe0800000000000000
+      internalID: -1460379717343305763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_22
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 2307
+        width: 180
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e5d799ec92972d0800000000000000
+      internalID: -3280544886247563621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_23
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 2307
+        width: 162
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dd778641cd61350800000000000000
+      internalID: 5987214734845795739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_24
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 2307
+        width: 143
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0bdeee11b5bb740800000000000000
+      internalID: 5168825129918902469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_25
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 2307
+        width: 152
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f610051ac77418150800000000000000
+      internalID: 5873053989675729263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_26
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 2307
+        width: 160
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58caee839ae4a8ae0800000000000000
+      internalID: -1546337033336738683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_27
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 2307
+        width: 168
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daad13d1efd702ed0800000000000000
+      internalID: -2440812467669837139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_28
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 2307
+        width: 179
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a98697e53d737dc0800000000000000
+      internalID: -3642430003140458076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_29
+      rect:
+        serializedVersion: 2
+        x: 5092
+        y: 2307
+        width: 184
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5506a02d9a59c5330800000000000000
+      internalID: 3700997550397612117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_30
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 2307
+        width: 175
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69760e0ba4d1b6c0800000000000000
+      internalID: -4129285552182232726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_31
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 2307
+        width: 158
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874fec5cd4f39d3d0800000000000000
+      internalID: -3181442058496838536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_32
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1923
+        width: 148
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b060b90eb4e6c80800000000000000
+      internalID: -8327635232915846340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_33
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1923
+        width: 149
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8c93499c4496a00800000000000000
+      internalID: 750206445499828433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_34
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1923
+        width: 160
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcd43b46fb8e3850800000000000000
+      internalID: 6358673613833690365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_35
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1923
+        width: 152
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454124328f900b0d0800000000000000
+      internalID: -3409213956571392940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_36
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1923
+        width: 147
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b0f71ee09e10130800000000000000
+      internalID: 3531359832957192972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_37
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1923
+        width: 146
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb258e265fc0f7220800000000000000
+      internalID: 2485719767397716668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_38
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 1923
+        width: 148
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a381f37c1aa0270800000000000000
+      internalID: 8217558347220007470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_39
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 1923
+        width: 149
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ac2b7b38ba93a10800000000000000
+      internalID: 1889730100869646908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_40
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 1923
+        width: 151
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ec88aa360972690800000000000000
+      internalID: -7626968686191391134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_41
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 1923
+        width: 153
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3408ac488ec835d0800000000000000
+      internalID: -3082486860138150852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_42
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 1923
+        width: 146
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472375580935f79a0800000000000000
+      internalID: -6233171479079996812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_43
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 1923
+        width: 148
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5448fa99550f97a20800000000000000
+      internalID: 3060741672216265797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_44
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 1923
+        width: 150
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cf21f86acb80620800000000000000
+      internalID: 2740647796805925930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_45
+      rect:
+        serializedVersion: 2
+        x: 5114
+        y: 1923
+        width: 157
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f63c6b4ff9abdc0800000000000000
+      internalID: -3622407076879044738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_46
+      rect:
+        serializedVersion: 2
+        x: 5499
+        y: 1923
+        width: 148
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39070631fd2225bf0800000000000000
+      internalID: -337168680601227117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_47
+      rect:
+        serializedVersion: 2
+        x: 5884
+        y: 1923
+        width: 146
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b76b57708de6ad80800000000000000
+      internalID: -8239637332213667911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1539
+        width: 159
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6d9e11ad2888c40800000000000000
+      internalID: 5514801616830191268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_49
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1539
+        width: 156
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee62bc10bad9dcca0800000000000000
+      internalID: -5994962171165202706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_50
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1539
+        width: 154
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a937108b80fa430800000000000000
+      internalID: 3796262597287975534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_51
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1539
+        width: 163
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e39d7a7e30e9850800000000000000
+      internalID: 6385545615146303049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_52
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1539
+        width: 176
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcc84e49f01d7e40800000000000000
+      internalID: 5655695369993506036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_53
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1539
+        width: 194
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4f91156b7f14880800000000000000
+      internalID: -8628343048648395564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_54
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1539
+        width: 178
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4748dda66d9ea8850800000000000000
+      internalID: 6380168929248904308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_55
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1539
+        width: 154
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48afcc6d6fa808f0800000000000000
+      internalID: -574016067977893809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_56
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1539
+        width: 153
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb8a3b586fc6acc0800000000000000
+      internalID: -3700041996724171814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_57
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 1539
+        width: 165
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0295c9b0044f7f200800000000000000
+      internalID: 213908063233268000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_58
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 1539
+        width: 156
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4c490212948ca30800000000000000
+      internalID: 4235715856171320530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_59
+      rect:
+        serializedVersion: 2
+        x: 4335
+        y: 1539
+        width: 159
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6df3f1cf62d3d590800000000000000
+      internalID: -7650539964535145110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_60
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 1539
+        width: 170
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0526159c47b0c580800000000000000
+      internalID: -8808839331590036210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_61
+      rect:
+        serializedVersion: 2
+        x: 5099
+        y: 1539
+        width: 191
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ff37e182d73e4a0800000000000000
+      internalID: -6565266220512968842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_62
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 1539
+        width: 181
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47296227915b450d0800000000000000
+      internalID: -3434921494882905484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_63
+      rect:
+        serializedVersion: 2
+        x: 5875
+        y: 1539
+        width: 153
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1167a68e90ae71110800000000000000
+      internalID: 1231710351384016401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1155
+        width: 184
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793239601a7a85210800000000000000
+      internalID: 1321990800675120023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_65
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1155
+        width: 175
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39305bf5012019d0800000000000000
+      internalID: -2805706258276927171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_66
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1155
+        width: 173
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a481742084dd7b0800000000000000
+      internalID: -5197919220295775726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_67
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1155
+        width: 178
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f33c032761ea950800000000000000
+      internalID: 6462127195023425348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_68
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1155
+        width: 182
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53dd17231a9a4740800000000000000
+      internalID: 5137087732020794203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_69
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 1155
+        width: 178
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e37e140bb57981f0800000000000000
+      internalID: -1042172392671120413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_70
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1155
+        width: 172
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5396f25a19c125b0800000000000000
+      internalID: -5394809763714919589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_71
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 1155
+        width: 178
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f85d2b592055a70800000000000000
+      internalID: 8814954687621336924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_72
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 1155
+        width: 184
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b0b0451b93eace0800000000000000
+      internalID: -1392111801028900014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_73
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1155
+        width: 182
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291f4e19650369350800000000000000
+      internalID: 6023054700027638162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_74
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 1155
+        width: 174
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb86c440d5c7db070800000000000000
+      internalID: 8123786041792161982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_75
+      rect:
+        serializedVersion: 2
+        x: 4327
+        y: 1155
+        width: 174
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c62b13de12dbf50800000000000000
+      internalID: 6898707506826210445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_76
+      rect:
+        serializedVersion: 2
+        x: 4707
+        y: 1155
+        width: 180
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccadb23e9f5215a50800000000000000
+      internalID: 6508024691715463884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_77
+      rect:
+        serializedVersion: 2
+        x: 5091
+        y: 1155
+        width: 183
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28306c8f470b9820800000000000000
+      internalID: 2925940421146196013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_78
+      rect:
+        serializedVersion: 2
+        x: 5481
+        y: 1155
+        width: 176
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef2556cdf70b1710800000000000000
+      internalID: 1664933273779122153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_79
+      rect:
+        serializedVersion: 2
+        x: 5867
+        y: 1155
+        width: 178
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c242aac49060e640800000000000000
+      internalID: 5107188169609200329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_80
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 771
+        width: 159
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9179e32b81859bd0800000000000000
+      internalID: -2624048773270507107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_81
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 771
+        width: 156
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8979aad9052a3e0800000000000000
+      internalID: -2043982642770634586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_82
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 771
+        width: 154
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d303b53923e079840800000000000000
+      internalID: 5230665102597500989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_83
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 771
+        width: 163
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4d129c3ee52dcc0800000000000000
+      internalID: -3687780812437990210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_84
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 771
+        width: 176
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2b598abc59ab880800000000000000
+      internalID: -8594392236943887706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_85
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 771
+        width: 194
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a7f5f3d9fb553e0800000000000000
+      internalID: -2065534171985511823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_86
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 771
+        width: 178
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453d46133284bc9c0800000000000000
+      internalID: -3905948935824026796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_87
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 771
+        width: 154
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8e0bf1207cdf1b0800000000000000
+      internalID: -5621117947952961330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_88
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 771
+        width: 153
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa897a9edd942010800000000000000
+      internalID: 1163228183168387750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_89
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 771
+        width: 165
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d46140b2d979fb0800000000000000
+      internalID: -4641068082904281846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_90
+      rect:
+        serializedVersion: 2
+        x: 3965
+        y: 771
+        width: 156
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125020d24601df1f0800000000000000
+      internalID: -1009632719023241951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_91
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 771
+        width: 159
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd53fbf05d62dbab0800000000000000
+      internalID: -4990790115522562593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_92
+      rect:
+        serializedVersion: 2
+        x: 4705
+        y: 771
+        width: 170
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0067e6fc023e610800000000000000
+      internalID: 1649197963831279818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_93
+      rect:
+        serializedVersion: 2
+        x: 5078
+        y: 771
+        width: 191
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f085cdd52bffdd890800000000000000
+      internalID: -7431502668547467249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_94
+      rect:
+        serializedVersion: 2
+        x: 5471
+        y: 771
+        width: 181
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96ee908a71385040800000000000000
+      internalID: 4636510218591594141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_95
+      rect:
+        serializedVersion: 2
+        x: 5876
+        y: 771
+        width: 153
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21208c4a4a11f1390800000000000000
+      internalID: -7845532627019234798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_96
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 387
+        width: 148
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7f808aadbf0c2d0800000000000000
+      internalID: -3260329213675636780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_97
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 387
+        width: 149
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0f3520c2aebab10800000000000000
+      internalID: 1993944734780092649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_98
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 387
+        width: 160
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d082947b8c0b0ea90800000000000000
+      internalID: -7286629820970489843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_99
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 387
+        width: 152
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0634c485fbe48f800800000000000000
+      internalID: 646353130254779232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_100
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 387
+        width: 147
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a83b61d324ce270800000000000000
+      internalID: 8281066644968802920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_101
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 387
+        width: 146
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1d7b0ab00fa1d10800000000000000
+      internalID: 2097252509226095049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_102
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 387
+        width: 148
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131b34c7267a5d3c0800000000000000
+      internalID: -4335375024840789711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_103
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 387
+        width: 149
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b5e2efec8d7cfc0800000000000000
+      internalID: -3474570203953734891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_104
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 387
+        width: 151
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e284bd442b2a7030800000000000000
+      internalID: 3493151895901733606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_105
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 387
+        width: 153
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cced6a91ed4d680800000000000000
+      internalID: -8731109575809381323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_106
+      rect:
+        serializedVersion: 2
+        x: 3954
+        y: 387
+        width: 146
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df0d3859e9f88140800000000000000
+      internalID: 4722298989901058000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_107
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: 387
+        width: 148
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c6c383743483140800000000000000
+      internalID: 4699580184326335602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_108
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 387
+        width: 150
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade640e26d63cc610800000000000000
+      internalID: 1642748257606332122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_109
+      rect:
+        serializedVersion: 2
+        x: 5097
+        y: 387
+        width: 157
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029a9bd48f15196f0800000000000000
+      internalID: -679671941858481888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_110
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 387
+        width: 148
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0822790fed61550800000000000000
+      internalID: 6131333067620647083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_111
+      rect:
+        serializedVersion: 2
+        x: 5874
+        y: 387
+        width: 146
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5940e5cb1589c80800000000000000
+      internalID: -8315806842466560514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_112
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3
+        width: 145
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f631cde4449a320800000000000000
+      internalID: 2569660167881977698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_113
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3
+        width: 150
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfab9dedd2b482540800000000000000
+      internalID: 4983315648069876476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_114
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 3
+        width: 164
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe1ae2fb24ce0000800000000000000
+      internalID: 4156342712016573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_115
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3
+        width: 169
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6b239c8f95c3ed0800000000000000
+      internalID: -2432970773624605006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_116
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 3
+        width: 180
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6957ed6a2cb63fea0800000000000000
+      internalID: -5840205808001976938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_117
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 3
+        width: 182
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e87d6642c4ef75a0800000000000000
+      internalID: -6521242212352821015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_118
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 3
+        width: 180
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd56c924f8e9644e0800000000000000
+      internalID: -1997735046557178404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_119
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 3
+        width: 162
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d67a52a1c4d9ed0800000000000000
+      internalID: -2405682950761386726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_120
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 3
+        width: 143
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9740b48b2043c6f0800000000000000
+      internalID: -665617764266784867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_121
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 3
+        width: 152
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba98ebebfb5d31340800000000000000
+      internalID: 4833441844614302123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_122
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 3
+        width: 160
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887bbf0113ef51770800000000000000
+      internalID: 8581044151716132744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_123
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 3
+        width: 168
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1308084c7a2892e0800000000000000
+      internalID: -2118896911405022438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_124
+      rect:
+        serializedVersion: 2
+        x: 4722
+        y: 3
+        width: 179
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79e1e9da93c74090800000000000000
+      internalID: -8050250739053631109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_125
+      rect:
+        serializedVersion: 2
+        x: 5092
+        y: 3
+        width: 184
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f4219eb480395a0800000000000000
+      internalID: -6515855113749115097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_126
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 3
+        width: 175
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b89ba8018712cd0800000000000000
+      internalID: -2584652698691728549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manolo_cenital_andar_127
+      rect:
+        serializedVersion: 2
+        x: 5866
+        y: 3
+        width: 158
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6cedf7a9be3a850800000000000000
+      internalID: 6387207745344292595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      manolo_cenital_andar_0: -545512473762932456
+      manolo_cenital_andar_1: 4310926118085400043
+      manolo_cenital_andar_10: -4372764851743217678
+      manolo_cenital_andar_100: 8281066644968802920
+      manolo_cenital_andar_101: 2097252509226095049
+      manolo_cenital_andar_102: -4335375024840789711
+      manolo_cenital_andar_103: -3474570203953734891
+      manolo_cenital_andar_104: 3493151895901733606
+      manolo_cenital_andar_105: -8731109575809381323
+      manolo_cenital_andar_106: 4722298989901058000
+      manolo_cenital_andar_107: 4699580184326335602
+      manolo_cenital_andar_108: 1642748257606332122
+      manolo_cenital_andar_109: -679671941858481888
+      manolo_cenital_andar_11: 278997734882623299
+      manolo_cenital_andar_110: 6131333067620647083
+      manolo_cenital_andar_111: -8315806842466560514
+      manolo_cenital_andar_112: 2569660167881977698
+      manolo_cenital_andar_113: 4983315648069876476
+      manolo_cenital_andar_114: 4156342712016573
+      manolo_cenital_andar_115: -2432970773624605006
+      manolo_cenital_andar_116: -5840205808001976938
+      manolo_cenital_andar_117: -6521242212352821015
+      manolo_cenital_andar_118: -1997735046557178404
+      manolo_cenital_andar_119: -2405682950761386726
+      manolo_cenital_andar_12: -4766310458701012600
+      manolo_cenital_andar_120: -665617764266784867
+      manolo_cenital_andar_121: 4833441844614302123
+      manolo_cenital_andar_122: 8581044151716132744
+      manolo_cenital_andar_123: -2118896911405022438
+      manolo_cenital_andar_124: -8050250739053631109
+      manolo_cenital_andar_125: -6515855113749115097
+      manolo_cenital_andar_126: -2584652698691728549
+      manolo_cenital_andar_127: 6387207745344292595
+      manolo_cenital_andar_13: 9177266347832405427
+      manolo_cenital_andar_14: 3018267946389940633
+      manolo_cenital_andar_15: -7908269374226821916
+      manolo_cenital_andar_16: 8161508067775808726
+      manolo_cenital_andar_17: 3730092553160664823
+      manolo_cenital_andar_18: 2561623259844857097
+      manolo_cenital_andar_19: -7885960313186713053
+      manolo_cenital_andar_2: -858410144388289266
+      manolo_cenital_andar_20: 4367526722894473
+      manolo_cenital_andar_21: -1460379717343305763
+      manolo_cenital_andar_22: -3280544886247563621
+      manolo_cenital_andar_23: 5987214734845795739
+      manolo_cenital_andar_24: 5168825129918902469
+      manolo_cenital_andar_25: 5873053989675729263
+      manolo_cenital_andar_26: -1546337033336738683
+      manolo_cenital_andar_27: -2440812467669837139
+      manolo_cenital_andar_28: -3642430003140458076
+      manolo_cenital_andar_29: 3700997550397612117
+      manolo_cenital_andar_3: -7669540367225965174
+      manolo_cenital_andar_30: -4129285552182232726
+      manolo_cenital_andar_31: -3181442058496838536
+      manolo_cenital_andar_32: -8327635232915846340
+      manolo_cenital_andar_33: 750206445499828433
+      manolo_cenital_andar_34: 6358673613833690365
+      manolo_cenital_andar_35: -3409213956571392940
+      manolo_cenital_andar_36: 3531359832957192972
+      manolo_cenital_andar_37: 2485719767397716668
+      manolo_cenital_andar_38: 8217558347220007470
+      manolo_cenital_andar_39: 1889730100869646908
+      manolo_cenital_andar_4: 1291036076194865493
+      manolo_cenital_andar_40: -7626968686191391134
+      manolo_cenital_andar_41: -3082486860138150852
+      manolo_cenital_andar_42: -6233171479079996812
+      manolo_cenital_andar_43: 3060741672216265797
+      manolo_cenital_andar_44: 2740647796805925930
+      manolo_cenital_andar_45: -3622407076879044738
+      manolo_cenital_andar_46: -337168680601227117
+      manolo_cenital_andar_47: -8239637332213667911
+      manolo_cenital_andar_48: 5514801616830191268
+      manolo_cenital_andar_49: -5994962171165202706
+      manolo_cenital_andar_5: -3483286858067576708
+      manolo_cenital_andar_50: 3796262597287975534
+      manolo_cenital_andar_51: 6385545615146303049
+      manolo_cenital_andar_52: 5655695369993506036
+      manolo_cenital_andar_53: -8628343048648395564
+      manolo_cenital_andar_54: 6380168929248904308
+      manolo_cenital_andar_55: -574016067977893809
+      manolo_cenital_andar_56: -3700041996724171814
+      manolo_cenital_andar_57: 213908063233268000
+      manolo_cenital_andar_58: 4235715856171320530
+      manolo_cenital_andar_59: -7650539964535145110
+      manolo_cenital_andar_6: -6163102079071666516
+      manolo_cenital_andar_60: -8808839331590036210
+      manolo_cenital_andar_61: -6565266220512968842
+      manolo_cenital_andar_62: -3434921494882905484
+      manolo_cenital_andar_63: 1231710351384016401
+      manolo_cenital_andar_64: 1321990800675120023
+      manolo_cenital_andar_65: -2805706258276927171
+      manolo_cenital_andar_66: -5197919220295775726
+      manolo_cenital_andar_67: 6462127195023425348
+      manolo_cenital_andar_68: 5137087732020794203
+      manolo_cenital_andar_69: -1042172392671120413
+      manolo_cenital_andar_7: -5231136925334295760
+      manolo_cenital_andar_70: -5394809763714919589
+      manolo_cenital_andar_71: 8814954687621336924
+      manolo_cenital_andar_72: -1392111801028900014
+      manolo_cenital_andar_73: 6023054700027638162
+      manolo_cenital_andar_74: 8123786041792161982
+      manolo_cenital_andar_75: 6898707506826210445
+      manolo_cenital_andar_76: 6508024691715463884
+      manolo_cenital_andar_77: 2925940421146196013
+      manolo_cenital_andar_78: 1664933273779122153
+      manolo_cenital_andar_79: 5107188169609200329
+      manolo_cenital_andar_8: -2372429436687903027
+      manolo_cenital_andar_80: -2624048773270507107
+      manolo_cenital_andar_81: -2043982642770634586
+      manolo_cenital_andar_82: 5230665102597500989
+      manolo_cenital_andar_83: -3687780812437990210
+      manolo_cenital_andar_84: -8594392236943887706
+      manolo_cenital_andar_85: -2065534171985511823
+      manolo_cenital_andar_86: -3905948935824026796
+      manolo_cenital_andar_87: -5621117947952961330
+      manolo_cenital_andar_88: 1163228183168387750
+      manolo_cenital_andar_89: -4641068082904281846
+      manolo_cenital_andar_9: -2156039653437264791
+      manolo_cenital_andar_90: -1009632719023241951
+      manolo_cenital_andar_91: -4990790115522562593
+      manolo_cenital_andar_92: 1649197963831279818
+      manolo_cenital_andar_93: -7431502668547467249
+      manolo_cenital_andar_94: 4636510218591594141
+      manolo_cenital_andar_95: -7845532627019234798
+      manolo_cenital_andar_96: -3260329213675636780
+      manolo_cenital_andar_97: 1993944734780092649
+      manolo_cenital_andar_98: -7286629820970489843
+      manolo_cenital_andar_99: 646353130254779232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
